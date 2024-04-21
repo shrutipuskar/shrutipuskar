@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti Puskar</h1>
-<h3 align="center">CS enthusiast with a passion for building innovative software solutions.</h3>
+<h3 align="center">Sleep is for the weak; coding is for the geek...</h3>
 
 <img align="right" alt="coding" height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 

@@ -56,4 +56,7 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutipuskar&show_icons=true&locale=en" alt="shrutipuskar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutipuskar&" alt="shrutipuskar" /></p>
-[![An image of @shrutipuskar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrutipuskar)](https://holopin.io/@shrutipuskar)
+<a href="https://holopin.io/@shrutipuskar">
+    <img src="https://holopin.me/shrutipuskar" alt="@shrutipuskar's Holopin badges" />
+</a>
+
